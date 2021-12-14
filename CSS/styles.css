@@ -33,6 +33,7 @@
   color: #575c41;
   font-family: sans-serif;
   border-top: 50px solid #c9d6be;
+  border-bottom: 50px solid #c9d6be;
 }
 
 body {
@@ -53,4 +54,13 @@ h2 {
   margin: 0 auto;
   width: 100%;
   margin-top: 50px;
+}
+
+p {
+  padding-left: 10px;
+}
+
+li {
+  padding-left: 20px;
+  padding-bottom: 10px;
 }
