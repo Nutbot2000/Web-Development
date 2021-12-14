@@ -1,0 +1,56 @@
+.title-container {
+  text-align: center;
+  background-color: #c9d6be;
+  color: #fffdf3;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.from-to-container {
+  text-align: center;
+  background-color: #fffdf3;
+  color: #575c41;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.tasks-timeline-container {
+  text-align: left;
+  color: #575c41;
+  font-family: sans-serif;
+  border-top: 50px solid #c9d6be;
+}
+
+.goals-objectives-deliverables-container {
+  text-align: left;
+  color: #575c41;
+  font-family: sans-serif;
+  border-top: 50px solid #c9d6be;
+}
+
+.pricing-container {
+  text-align: left;
+  color: #575c41;
+  font-family: sans-serif;
+  border-top: 50px solid #c9d6be;
+}
+
+body {
+  margin: 0;
+}
+
+h1 {
+  margin: 0;
+  padding: 10px;
+}
+
+h2 {
+  margin: 0;
+  padding: 10px;
+}
+
+.from-to {
+  margin: 0 auto;
+  width: 100%;
+  margin-top: 50px;
+}
